@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 Python 3.8
-Author : Dan Kushner <dan.kushner@sisense.com>
+Author : Dan Kushner <dan.k0288@gmail.com>
 IL COVID-19
 '''
 import time
